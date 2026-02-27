@@ -1,31 +1,40 @@
 # Basalt Engine (Public)
 
-**Secure execution architecture for high-stakes AI systems.**
+**Secure AI execution fabric for enterprise-grade throughput, control, and auditability.**
 
-Basalt Engine is my flagship platform program, built to deliver production-grade security, control, and performance for model-driven workloads.
+Basalt Engine is my flagship platform program. It is designed for operators who need performance and security at the same time, not as a tradeoff.
 
-## Thesis
-Most AI stacks optimize for demo velocity, not operational survivability. Basalt is designed for environments where security posture, reliability, and throughput all matter at once.
+## Core Positioning
+Most AI stacks optimize for demo speed. Basalt is engineered for production survivability: policy-enforced execution, deterministic orchestration, and resilient throughput under real constraints.
 
-## What This Platform Is Built To Do
-- Enforce strong security boundaries without killing delivery speed
-- Improve task throughput across mixed AI workloads through deterministic orchestration
-- Maintain auditable execution paths for enterprise and regulated deployments
-- Reduce operational failure surfaces in multi-agent and multi-model systems
+## What Basalt Is Built To Deliver
+- Security-first orchestration across model and tool execution paths
+- Throughput-oriented coordination without dropping governance controls
+- Auditable execution boundaries for enterprise and regulated environments
+- Reliable multi-agent and multi-model task routing under policy
 
-## Security-First Design Direction
-- Zero-trust service boundaries
-- Cryptographic integrity controls for critical execution paths
-- Policy-governed orchestration and access controls
-- Defense-oriented runtime assumptions for real-world threat conditions
+## Visual Snapshot (Non-Architectural)
+```mermaid
+flowchart TD
+    A[Security Posture] --> D[Enterprise Readiness]
+    B[Throughput Discipline] --> D
+    C[Operational Governance] --> D
+    D --> E[Production AI Outcomes]
+```
+
+## Public Performance Markers
+- Task throughput per compute unit under policy enforcement
+- Latency stability at mixed-workload concurrency
+- Recovery rate for failed or interrupted task handoffs
+- Policy-violation prevention under adversarial traffic patterns
 
 ## Strategic Fit
-Basalt is built for serious operator environments, including cloud-scale AI deployment, enterprise automation, and model-provider infrastructure partnerships.
+Basalt aligns with cloud providers, model platforms, and enterprise operators that need hardened AI infrastructure with measurable execution quality.
 
 ## Collaboration
-I engage selectively with strategic partners for architecture diligence, integration design, and deployment pathways.
+I engage selectively on architecture diligence, integration strategy, and deployment planning.
 
 ## Public Boundary
 This repository is intentionally high-level.
 
-It does **not** include proprietary code, implementation internals, key material, private architecture details, or trade-secret security mechanics.
+It does **not** contain proprietary code, private architecture internals, key material, or trade-secret security mechanics.
